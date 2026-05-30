@@ -15,3 +15,7 @@ What is phishing?
 
 Answer:
 Phishing is a social engineering attack used to steal sensitive information.
+
+## Screenshots
+
+![CyberGuard AI](screenshots)
