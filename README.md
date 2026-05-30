@@ -18,4 +18,13 @@ Phishing is a social engineering attack used to steal sensitive information.
 
 ## Screenshots
 
-![CyberGuard AI](screenshots)
+## Screenshot
+
+### example-1
+![example-1](1.jpg)
+
+### example-2
+![example-2](2.jpg)
+
+### example-3
+![example-3](3.jpg)
